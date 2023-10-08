@@ -1,6 +1,8 @@
 //Función para calcular la potencia al cubo
-
-
+function potenciaAlCubo(numero) {
+    return Math.pow(numero, 3);
+  }
+  console.log(potenciaAlCubo(2)); // Resultado: 8
 
 //Función para calcular la raíz cubica
 const raizCubica = (numero) => {
