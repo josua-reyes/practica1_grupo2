@@ -1,5 +1,6 @@
 function esPalindromo(palabra) {
     console.log('Funcionalidad extra Josuá Reyes - Carné 09062027370')
+    console.log('Funcionalidad extra Julio Bautista - Carné 1290109647')
     palabra = palabra.toLowerCase().replace(/\s/g, '');
 
     let i = 0;
