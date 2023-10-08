@@ -3,5 +3,9 @@ const mult = (a,b) => {
 }
 
 const div = (a,b) => {
-    return a/b;
+    if(b == 0){
+        return 'No se puede dividir entre cero'
+    } else if(b != 0){
+        return a/b;
+    }
 }
