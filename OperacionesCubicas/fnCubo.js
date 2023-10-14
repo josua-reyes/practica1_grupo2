@@ -13,3 +13,5 @@ function potenciaAlCubo(numero) {
   console.log('Funcionalidad extra Rodney Rizo - Carné 13902028058')
   return Math.pow(numero, 3);
 }
+
+console.log('Prensetación 10/14')
